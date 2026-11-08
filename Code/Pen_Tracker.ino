@@ -1,5 +1,5 @@
 // ============================================================================
-// Code/Pen_Tracker.ino  -  ESP32-S3 SuperMini + 2x MPU6050 -> WiFi (UDP) pen tracker
+// Pen_Tracker.ino  -  ESP32-S3 SuperMini + 2x MPU6050 -> WiFi (UDP) pen tracker
 // ============================================================================
 // Wiring (both sensors share the same I2C bus):
 //   MPU6050 VCC -> 3V3     GND -> GND     SDA -> GPIO4     SCL -> GPIO5
