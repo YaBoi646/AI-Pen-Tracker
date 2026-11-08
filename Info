@@ -1,0 +1,10 @@
+Ever wanted to take notes digitally, but don't want to buy a whole tablet?
+
+We have a solution! The AI Pen will allow you to take notes without needing to buy bulky and unprofessional digital tools!
+Simply attach this device to your pen and write away! The pen will automatically transmit data to your computer, where a 
+machine learning model will interpret your inputs as text that it will document.
+
+Proof of concept prototype is complete, the current prototype can successfully map pen movements to a 3d space, and a machine 
+learning model can translate these movements into characters with 67% accuracy.
+
+[![Watch the video](https://youtu.be/ejw2jywBO_M)](https://youtu.be/ejw2jywBO_M)
