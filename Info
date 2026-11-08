@@ -7,4 +7,5 @@ machine learning model will interpret your inputs as text that it will document.
 Proof of concept prototype is complete, the current prototype can successfully map pen movements to a 3d space, and a machine 
 learning model can translate these movements into characters with 67% accuracy.
 
+Prototype:
 https://www.youtube.com/watch?v=ejw2jywBO_M
